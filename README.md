@@ -17,27 +17,34 @@ I am a iOS Developer with an experience of over 5 years. I have hands on experie
 
 ## Experience
 
-### **Senior iOS Developer**
+### ** Sr. iOS Developer**
+### XongoLab Technology LLP
+
+Worked on java , hybris framework and promotion engine. Created registration process, order hostory for amway. Worked on emil notifications service for customers
+
+### **iOS Developer**
+### JustCode Software Developer
+
+Worked on java , hybris framework and promotion engine. Created registration process, order hostory for amway. Worked on emil notifications service for customers
+
+### **iOS Developer**
+### Daebuild CRM
+
+Worked with packages team to build mobile website using React, typsecript and graphql. Developerd checkout process for package bookings. Migrated the old code in perl to react for desktop website.
+
+### **iOS Developer**
 ### Dua Infotech
 
 Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
 
-### **Senior iOS Developer**
-### Booking.com
 
-Worked with packages team to build mobile website using React, typsecript and graphql. Developerd checkout process for package bookings. Migrated the old code in perl to react for desktop website.
-
-### **Senior iOS Developer**
-### NAGARRO PVT, LTD
-
-Worked on java , hybris framework and promotion engine. Created registration process, order hostory for amway. Worked on emil notifications service for customers
 
 ---
 
 ## Education
 
 ### **Government Engineering College,Bhavnagar**
-### BTech Information Technology (2013-2017)
+### B.E. Information Technology (2013-2017)
 
 ---
 
