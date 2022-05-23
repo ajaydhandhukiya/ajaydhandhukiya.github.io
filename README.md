@@ -7,7 +7,7 @@ I am a iOS Developer with an experience of over 5 years. I have hands on experie
 ## Skills
 
 <p align='left'>
-    <img src='https://cdn.wccftech.com/wp-content/uploads/2022/02/swift.png' alt="html" width="40" height="40">
+    <img src='https://img.icons8.com/color/344/swift.png' alt="html" width="40" height="40">
     <img src='https://img.icons8.com/color/344/swiftui.png' alt="html" width="40" height="40">
   <img src='https://img.icons8.com/color/344/python--v1.png' alt="html" width="40" height="40">
 </p>
