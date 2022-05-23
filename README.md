@@ -1,24 +1,22 @@
 ## Portfolio
 
-I am a frontend engineer with an experience of over 5 years. I have hands on experienceworking with web frameworks and technologies. I have extensively worked on react and typescript for 3 years.
+I am a iOS Developer with an experience of over 5 years. I have hands on experienceworking with iOS frameworks and technologies. I have extensively worked on Swift and Objective C for 5 years.
 
 ---
 
 ## Skills
 
 <p align='left'>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
-   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+  <img src="https://cdn.wccftech.com/wp-content/uploads/2022/02/swift.png" alt="html" width="40" height="40">
+  <img src='https://bignerdranch.com/wp-content/uploads/2021/03/SwiftUI-Logo-copy.jpg' alt="css" width="40" height="40">
+  <img src='https://images.ctfassets.net/mrop88jh71hl/55rrbZfwMaURHZKAUc5oOW/9e5fe805eb03135b82e962e92169ce6d/python-programming-language.png' height='30' width='auto' alt="js">
 </p>
 
 ---
 
 ## Experience
 
-### **SENIOR FRONTEND DEVELOPER**
+### **SENIOR iOS DEVELOPER**
 ### MIRO
 
 Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
