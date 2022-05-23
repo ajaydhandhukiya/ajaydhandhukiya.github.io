@@ -9,6 +9,7 @@ I am a iOS Developer with an experience of over 5 years. I have hands on experie
 <p align='left'>
     <img src='https://img.icons8.com/color/344/swift.png' alt="html" width="40" height="40">
     <img src='https://img.icons8.com/color/344/swiftui.png' alt="html" width="40" height="40">
+     <img src='https://img.icons8.com/external-tal-revivo-bold-tal-revivo/344/external-apple-inc-logotype-of-an-american-multinational-technology-company-logo-bold-tal-revivo.png' alt="html" width="40" height="40">
   <img src='https://img.icons8.com/color/344/python--v1.png' alt="html" width="40" height="40">
 </p>
 
