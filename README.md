@@ -16,19 +16,19 @@ I am iOS Developer with an experience of over 5 years. I have hands on experienc
 ---
 
 # Experience
-## **Sr. Software Engineer - iOS**
+## *Sr. Software Engineer - iOS*
 ### Space-O Technology (2 months)
 
-## **Sr. iOS Developer**
+## *Sr. iOS Developer*
 ### XongoLab Technology LLP (0 year 3.5 months)
 
-## **iOS Developer**
+## *iOS Developer*
 ### JustCode Software Developer (0 year 11 months)
 
-## **iOS Developer**
+## *iOS Developer*
 ### Daebuild CRM (1 year 2 months)
 
-## **iOS Developer**
+## *iOS Developer*
 ### Dua Infotech (2 years 1 month)
 
 
@@ -36,17 +36,17 @@ I am iOS Developer with an experience of over 5 years. I have hands on experienc
 
 ---
 
-## Education
+# Education
 
-### **Government Engineering College, Bhavnagar**
-- B.E. Information Technology (2013-2017)
+## *Government Engineering College, Bhavnagar*
+### B.E. Information Technology (2013-2017)
 
-### **Bharad VishvaVidhyapith, Tramba, Rajkot**
-- HSC Science (2011-2013)
+## *Bharad VishvaVidhyapith, Tramba, Rajkot*
+### HSC Science (2011-2013)
 
 ---
 
-### INTERESTS
+## INTERESTS
 Apart from being a mobile developer, I do content creation. I make videos related to mobile development and general tech.
 
 I enjoy being outdoors, so i go for run everyday. I love travelling to different cities and explore different cultures. When I am inside , I play guitar and sing in my free time.
