@@ -1,6 +1,6 @@
 ## Portfolio
 
-I am a iOS Developer with an experience of over 5 years. I have hands on experienceworking with iOS frameworks and technologies. I have extensively worked on Swift and Objective C for 5 years.
+I am iOS Developer with an experience of over 5 years. I have hands on experience working with iOS frameworks and technologies. I have extensively worked on Swift and Objective C for 5 years.
 
 ---
 
@@ -16,26 +16,26 @@ I am a iOS Developer with an experience of over 5 years. I have hands on experie
 ---
 
 ## Experience
+### **Sr. Software Engineer - iOS**
+### Space-O Technology
+### 0 year 2 months
 
-### ** Sr. iOS Developer**
+### **Sr. iOS Developer**
 ### XongoLab Technology LLP
-
-Worked on java , hybris framework and promotion engine. Created registration process, order hostory for amway. Worked on emil notifications service for customers
+### 0 year 3.5 months
 
 ### **iOS Developer**
 ### JustCode Software Developer
-
-Worked on java , hybris framework and promotion engine. Created registration process, order hostory for amway. Worked on emil notifications service for customers
+### 0 year 11 months
 
 ### **iOS Developer**
 ### Daebuild CRM
-
-Worked with packages team to build mobile website using React, typsecript and graphql. Developerd checkout process for package bookings. Migrated the old code in perl to react for desktop website.
+### 1 year 2 months
 
 ### **iOS Developer**
 ### Dua Infotech
+### 2 years 1 month
 
-Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
 
 
 
@@ -43,12 +43,15 @@ Working with meetings and workshops team to provide best experience to faciltato
 
 ## Education
 
-### **Government Engineering College,Bhavnagar**
+### **Government Engineering College, Bhavnagar**
 ### B.E. Information Technology (2013-2017)
+
+### **Bharad VishvaVidhyapith, Tramba, Rajkot**
+### HSC Science (2011-2013)
 
 ---
 
 ### INTERESTS
-Apart from being a web developer, I do content creation. I make videos related to frontend and general tech.
+Apart from being a mobile developer, I do content creation. I make videos related to mobile development and general tech.
 
-I enjoy being outdoors, so i go for run everyday. I love travelling to different countries and explore different cultures. When i am inside , i play guitar and sing in my free time.
+I enjoy being outdoors, so i go for run everyday. I love travelling to different cities and explore different cultures. When I am inside , I play guitar and sing in my free time.
