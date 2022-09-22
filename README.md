@@ -1,10 +1,10 @@
-## Portfolio
+# Portfolio
 
 I am iOS Developer with an experience of over 5 years. I have hands on experience working with iOS frameworks and technologies. I have extensively worked on Swift and Objective C for 5 years.
 
 ---
 
-## Skills
+# Skills
 
 <p align='left'>
     <img src='https://img.icons8.com/color/344/swift.png' alt="html" width="40" height="40">
@@ -15,26 +15,21 @@ I am iOS Developer with an experience of over 5 years. I have hands on experienc
 
 ---
 
-## Experience
-### **Sr. Software Engineer - iOS**
--Space-O Technology
--0 year 2 months
+# Experience
+## **Sr. Software Engineer - iOS**
+### Space-O Technology (2 months)
 
-### **Sr. iOS Developer**
-- XongoLab Technology LLP
-- 0 year 3.5 months
+## **Sr. iOS Developer**
+### XongoLab Technology LLP (0 year 3.5 months)
 
-### **iOS Developer**
-- JustCode Software Developer
-- 0 year 11 months
+## **iOS Developer**
+### JustCode Software Developer (0 year 11 months)
 
-### **iOS Developer**
-- Daebuild CRM
-- 1 year 2 months
+## **iOS Developer**
+### Daebuild CRM (1 year 2 months)
 
-### **iOS Developer**
-- Dua Infotech
-- 2 years 1 month
+## **iOS Developer**
+### Dua Infotech (2 years 1 month)
 
 
 
