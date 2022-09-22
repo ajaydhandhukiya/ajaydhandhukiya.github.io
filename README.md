@@ -16,15 +16,15 @@ I am iOS Developer with an experience of over 5 years. I have hands on experienc
 ---
 
 # Experience
-## *Sr. Software Engineer - iOS* - Space-O Technology (2 months)
+## *Sr. Software Engineer - iOS*: Space-O Technology (2 months)
 
-## *Sr. iOS Developer* - XongoLab Technology LLP (0 year 3.5 months)
+## *Sr. iOS Developer*: XongoLab Technology LLP (0 year 3.5 months)
 
-## *iOS Developer* - JustCode Software Developer (0 year 11 months)
+## *iOS Developer*: JustCode Software Developer (0 year 11 months)
 
-## *iOS Developer* - Daebuild CRM (1 year 2 months)
+## *iOS Developer*: Daebuild CRM (1 year 2 months)
 
-## *iOS Developer* - Dua Infotech (2 years 1 month)
+## *iOS Developer*: Dua Infotech (2 years 1 month)
 
 
 
