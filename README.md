@@ -33,7 +33,7 @@ I am iOS Developer with an experience of over 5 years. I have hands on experienc
 ## *Government Engineering College, Bhavnagar*
 ### B.E. Information Technology (2013-2017)
 
-## *Bharad VishvaVidhyapith, Tramba, Rajkot*
+## *Bharad Vishvavidhyapith, Tramba, Rajkot*
 ### HSC Science (2011-2013)
 
 ---
@@ -41,4 +41,4 @@ I am iOS Developer with an experience of over 5 years. I have hands on experienc
 ## INTERESTS
 Apart from being a mobile developer, I do content creation. I make videos related to mobile development and general tech.
 
-I enjoy being outdoors, so i go for run everyday. I love travelling to different cities and explore different cultures. When I am inside , I play guitar and sing in my free time.
+I enjoy being outdoors, so i go for cycling everyday. I love travelling to different cities and explore different cultures. When I am inside , I play with playground in xCode and increase knowledge of SwiftUI in my free time.
