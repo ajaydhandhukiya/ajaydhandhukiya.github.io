@@ -22,6 +22,7 @@ I am iOS Developer with an experience of over 5 years. I have hands on experienc
 
 ## *iOS Developer*: Dua Infotech (2 years 1 month)
 
+## *iOS Trainee*: Tops Technology (5 month)
 
 
 
