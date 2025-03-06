@@ -22,7 +22,7 @@ I am iOS Developer with an experience of over 7 years. I have hands on experienc
   <summary>## *Sr. iOS Developer*: JustCode Software Developer (4 years)</summary>
   - **Sr. iOS Developer**: 3 years
   - **iOS Developer**: 1 year
-  
+</details>
   
 ## *iOS Developer*: Daebuild CRM (3 year 2 months)
 
