@@ -1,6 +1,6 @@
 # Portfolio
 
-I am iOS Developer with an experience of over 5 years. I have hands on experience working with iOS frameworks and technologies. I have extensively worked on Swift and Objective C for 5 years.
+I am iOS Developer with an experience of over 7 years. I have hands on experience working with iOS frameworks and technologies. I have extensively worked on Swift and Objective C for 7 years.
 
 ---
 
@@ -18,13 +18,9 @@ I am iOS Developer with an experience of over 5 years. I have hands on experienc
 ---
 
 # Experience
-## *iOS Developer*: JustCode Software Developer (2 years)
+## *Sr. iOS Developer*: JustCode Software Developer (4 years)
 
-## *iOS Developer*: Daebuild CRM (1 year 2 months)
-
-## *iOS Developer*: Dua Infotech (2 years 1 month)
-
-## *iOS Trainee*: Tops Technology (5 month)
+## *iOS Developer*: Daebuild CRM (3 year 2 months)
 
 
 
