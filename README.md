@@ -18,11 +18,8 @@ I am iOS Developer with an experience of over 7 years. I have hands on experienc
 ---
 
 # Experience
-<details>
-  <summary>## *Sr. iOS Developer*: JustCode Software Developer (4 years)</summary>
-  - **Sr. iOS Developer**: 3 years
-  - **iOS Developer**: 1 year
-</details>
+
+## *Sr. iOS Developer*: JustCode Software Developer (4 years)
   
 ## *iOS Developer*: Daebuild CRM (3 year 2 months)
 
@@ -32,11 +29,11 @@ I am iOS Developer with an experience of over 7 years. I have hands on experienc
 
 # Education
 
-## *Government Engineering College, Bhavnagar*
-### B.E. Information Technology (2013-2017)
+## *B.E. Information Technology*
+### Government Engineering College, Bhavnagar (2013-2017)
 
-## *Bharad Vishvavidhyapith, Tramba, Rajkot*
-### HSC Science (2011-2013)
+## *HSC Science*
+### Bharad Vishvavidhyapith, Tramba, Rajkot (2011-2013)
 
 ---
 
