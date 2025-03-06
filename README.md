@@ -19,9 +19,9 @@ I am iOS Developer with an experience of over 7 years. I have hands on experienc
 
 # Experience
 
-## *Sr. iOS Developer*: JustCode Software Developer (4 years)
+## *Sr. iOS Developer*: JustCode Software Developer (May 2021 - Current)
   
-## *iOS Developer*: Daebuild CRM (3 year 2 months)
+## *iOS Developer*: Daebuild CRM (Sept 2017 - Apr 2021)
 
 
 
